@@ -24,6 +24,7 @@ gem 'jbuilder', '~> 2.0'
 gem'bootstrap-sass'
 gem 'devise', '~> 3.5.1'
 gem 'paperclip', '~>3.5.3'
+gem 'aws-sdk', '<2.0'
 
 # Use sqlite3 as the database for Active Record
 group :development, :test do
